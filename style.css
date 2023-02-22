@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: #f1f1f1;
     text-align: center;
     background-image: url('resources/bg.webp');
@@ -33,12 +33,12 @@ h3 {
     padding: 16px;
     text-align: center;
     backdrop-filter: blur(10px);
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(102, 102, 102, 0.2);
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: rgba(255, 255, 255, 0.6);
     width: 90%;
 }
 
@@ -53,7 +53,7 @@ ul {
     padding: 0;
     overflow: hidden;
     backdrop-filter: blur(10px);
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 li {
